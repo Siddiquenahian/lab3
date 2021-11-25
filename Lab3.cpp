@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-int main()
+void main()
 {
 char string[31];
 int count=0,i;
